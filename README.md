@@ -1,7 +1,7 @@
 # bignotes
-notes on big data study
-  - [Apache Flume](#flume)
-  - [Apache Kafka](#kafka)
+  - notes on big data study
+    - [Apache Flume](#flume)
+    - [Apache Kafka](#kafka)
 
 # Apache Flume
 ## Intro
