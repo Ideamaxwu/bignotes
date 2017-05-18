@@ -1,9 +1,9 @@
 # bignotes
-  - notes on big data study
-    - [Apache Flume](#flume)
-    - [Apache Kafka](#kafka)
+notes on big data study
+  - [Apache Flume](#flume)
+  - [Apache Kafka](#kafka)
 
-# Apache Flume
+# [Apache Flume]
 ## Intro
   - Goal: ingests (streaming) data (e.g., logs, events) from multiple resources (e.g., web servers) into a centralized data store (e.g., HDFS, HBase)
   - Example: moves log files to Hadoop for analysis
@@ -17,4 +17,4 @@
 ## Conc
   - Similar tools: Facebook's Scribe, Apache Kafka
  
-# Apache Kafka
+# [Apache Kafka]
