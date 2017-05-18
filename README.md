@@ -1,6 +1,7 @@
 # bignotes
 notes on big data study
   - [Apache Flume](#flume)
+  - [Apache Kafka](#kafka)
 
 # Apache Flume
 ## Intro
@@ -15,3 +16,5 @@ notes on big data study
   - Flow: multi-hop, fan-out (replicating, multiplexing)
 ## Conc
   - Similar tools: Facebook's Scribe, Apache Kafka
+ 
+# Apache Kafka
