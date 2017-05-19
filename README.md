@@ -3,6 +3,8 @@ notes on big data study
   - [Apache Flume](#apache-flume)
   - [Apache Kafka](#apache-kafka)
   - [ZooKeeper](#zookeeper)
+  - [Sqoop](#sqoop)
+  - [Mahout](#mahout)
 
 # Apache Flume
 ## Intro
@@ -52,3 +54,11 @@ notes on big data study
   - Codegen, Eval
 ## Conc
   - Alluxio, unify data at memory speed
+  
+# Mahout
+## Intro
+  - Goal: produce scalable machine learning algorithms
+## Keywords
+  - Recommendation, Classification, Clustering
+## Conc
+  - Similar tools: TensorFlow
