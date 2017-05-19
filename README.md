@@ -2,6 +2,7 @@
 notes on big data study
   - [Apache Flume](#apache-flume)
   - [Apache Kafka](#apache-kafka)
+  - [ZooKeeper](#zookeeper)
 
 # Apache Flume
 ## Intro
@@ -29,3 +30,11 @@ notes on big data study
 ## Conc
   - Reliability, Scalability, Durability, Performance
   - More like Channel and Broker in BAD 
+
+#ZooKeeper
+## Intro
+  - 
+## Keywords
+  - 
+## Conc
+  -
