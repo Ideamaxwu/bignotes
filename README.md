@@ -5,6 +5,7 @@ notes on big data study
   - [ZooKeeper](#zookeeper)
   - [Sqoop](#sqoop)
   - [Mahout](#mahout)
+  - [biggy](#biggy)
 
 # Apache Flume
 ## Intro
@@ -62,3 +63,13 @@ notes on big data study
   - Recommendation, Classification, Clustering
 ## Conc
   - Similar tools: TensorFlow
+  
+# biggy
+## Intro
+  - Goal: Unify architecture for BDMS to provide Big Data Management Service
+## Keywords
+  - Unified architecture for BDMS
+  - Pluggability, Automation and Intelligence
+  - Five parts
+## Conc
+  - Berkley Data Analysis Stack
