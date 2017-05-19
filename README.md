@@ -16,5 +16,16 @@ notes on big data study
   - Flow: multi-hop, fan-out (replicating, multiplexing)
 ## Conc
   - Similar tools: Facebook's Scribe, Apache Kafka
+  - More like Feed in BAD
  
 # Apache Kafka
+## Intro
+  - distributed publish-subscribe based fault tolerant messaging system
+## Keywords
+  - Messaging System: Point to Point VS Publish-Subscribe
+  - Topics: a stream of message, split into partitions
+  - Brokers: maintain pulished data and distribute them, using ZooKeeper to keep state
+  - Lead and Followers: nodes in Cluster
+## Conc
+  - Reliability, Scalability, Durability, Performance
+  - More like Channel and Broker in BAD 
