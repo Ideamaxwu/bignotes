@@ -21,7 +21,7 @@ notes on big data study
  
 # Apache Kafka
 ## Intro
-  - distributed publish-subscribe based fault tolerant messaging system
+  - Goal: distributed publish-subscribe based fault tolerant messaging system
 ## Keywords
   - Messaging System: Point to Point VS Publish-Subscribe
   - Topics: a stream of message, split into partitions
@@ -33,8 +33,12 @@ notes on big data study
 
 # ZooKeeper
 ## Intro
-  - 
+  - Goal: distributed co-ordination service to manage large set of hosts
 ## Keywords
-  - 
+  - Client and Server
+  - Leader and Follower (are Server nodes)
+  - znode of Persistence, Ephemeral, Sequential
 ## Conc
-  -
+  - Reliability, Scalability, Transparency
+  - Race condition, Deaflock, Inconsistency
+  - Compared with Mesos, YARN (Resource Management not Coordination)
