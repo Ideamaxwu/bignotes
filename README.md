@@ -31,7 +31,7 @@ notes on big data study
   - Reliability, Scalability, Durability, Performance
   - More like Channel and Broker in BAD 
 
-#ZooKeeper
+# ZooKeeper
 ## Intro
   - 
 ## Keywords
