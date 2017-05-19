@@ -40,5 +40,15 @@ notes on big data study
   - znode of Persistence, Ephemeral, Sequential
 ## Conc
   - Reliability, Scalability, Transparency
-  - Race condition, Deaflock, Inconsistency
+  - Race condition, Deadlock, Inconsistency
   - Compared with Mesos, YARN (Resource Management not Coordination)
+  
+# Sqoop
+## Intro
+  - Goal: transfer data between Hadoop and relational database servers
+## Keywords
+  - Import and Export
+  - Job
+  - Codegen, Eval
+## Conc
+  - Alluxio, unify data at memory speed
