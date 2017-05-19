@@ -1,13 +1,24 @@
 # bignotes
 notes on big data study
-  - [Apache Flume](#apache-flume)
-  - [Apache Kafka](#apache-kafka)
+  - [Template](#template)
+  - [Flume](#flume)
+  - [Kafka](#kafka)
   - [ZooKeeper](#zookeeper)
   - [Sqoop](#sqoop)
   - [Mahout](#mahout)
+  - [Spark](#spark)
+  - [Storm](#storm)
   - [biggy](#biggy)
 
-# Apache Flume
+# Template
+## Intro
+  - 
+## Keywords
+  - 
+## Conc
+  - 
+
+# Flume
 ## Intro
   - Goal: ingests (streaming) data (e.g., logs, events) from multiple resources (e.g., web servers) into a centralized data store (e.g., HDFS, HBase)
   - Example: moves log files to Hadoop for analysis
@@ -22,7 +33,7 @@ notes on big data study
   - Similar tools: Facebook's Scribe, Apache Kafka
   - More like Feed in BAD
  
-# Apache Kafka
+# Kafka
 ## Intro
   - Goal: distributed publish-subscribe based fault tolerant messaging system
 ## Keywords
@@ -32,6 +43,7 @@ notes on big data study
   - Lead and Followers: nodes in Cluster
 ## Conc
   - Reliability, Scalability, Durability, Performance
+  - RabbitMQ
   - More like Channel and Broker in BAD 
 
 # ZooKeeper
@@ -63,7 +75,32 @@ notes on big data study
   - Recommendation, Classification, Clustering
 ## Conc
   - Similar tools: TensorFlow
-  
+  - Disk-based
+
+# Spark
+## Intro
+  - Goal: lightning-fast in-memory cluster computing
+## Keywords
+  - Spark Core, SQL, Streaming, MLlib, GraphX
+  - RDD against MapReduce's replication, serialization, disk IO
+  - RDD Transformation
+## Conc
+  - Not for memory-cost computation, No file management system
+  - Latency compared to Flink
+
+# Storm
+## Intro
+  - Goal: distributed real-time big data-processing system
+## Keywords
+  - Spouts: source of stream
+  - Bolts: logical processing units
+  - Topology: a directed graph by connecting spouts and bolts
+## Conc
+  - [Post](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+  - Cloudera
+  - Samza
+  - For streaming (rather than batch)
+    
 # biggy
 ## Intro
   - Goal: Unify architecture for BDMS to provide Big Data Management Service
@@ -73,3 +110,4 @@ notes on big data study
   - Five parts
 ## Conc
   - Berkley Data Analysis Stack
+  - Reliability, Scalability, Transparency
