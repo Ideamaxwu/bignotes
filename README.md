@@ -8,6 +8,9 @@ notes on big data study
   - [Mahout](#mahout)
   - [Spark](#spark)
   - [Storm](#storm)
+  - [Alluxio](#alluxio)
+  - [CosmoDB](#cosmodb)
+  - [Solr](#solr)
   - [biggy](#biggy)
 
 # Template
@@ -100,6 +103,30 @@ notes on big data study
   - Cloudera
   - Samza
   - For streaming (rather than batch)
+
+# Alluxio
+## Intro
+  - 
+## Keywords
+  - 
+## Conc
+  - 
+
+# Solr
+## Intro
+  - 
+## Keywords
+  - 
+## Conc
+  - 
+
+# CosmoDB
+## Intro
+  - 
+## Keywords
+  - 
+## Conc
+  - 
     
 # biggy
 ## Intro
