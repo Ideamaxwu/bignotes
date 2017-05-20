@@ -9,8 +9,9 @@ notes on big data study
   - [Spark](#spark)
   - [Storm](#storm)
   - [Alluxio](#alluxio)
-  - [CosmoDB](#cosmodb)
   - [Solr](#solr)
+  - [Zeppelin](#zeppelin)
+  - [CosmoDB](#cosmodb)
   - [biggy](#biggy)
 
 # Template
@@ -106,27 +107,38 @@ notes on big data study
 
 # Alluxio
 ## Intro
-  - 
+  - Goal: unifies disparate storage systems as memory speed
 ## Keywords
-  - 
+  - Unified Namespace: decouples computation from data as a logical memory
 ## Conc
-  - 
+  - Super!
 
 # Solr
 ## Intro
-  - 
+  - Goal: scalable search/storage engine for text-centirc data
+  - History: built on top of Lucene
 ## Keywords
-  - 
+  - Lucene: simple yet powerful search library, e.g., indexing and searching 
 ## Conc
-  - 
+  - Elastic Search
 
-# CosmoDB
+# Zeppelin
 ## Intro
   - 
 ## Keywords
   - 
 ## Conc
   - 
+  
+# CosmoDB
+## Intro
+  - Goal: globally distributed, multi-model database service
+## Keywords
+  - SLAs: Service Level Agreements
+  - Tunable Consistency: from strong to eventual consistency
+  - Multi-model: DocumentDB, MongoDB, Table, Graph
+## Conc
+  - biggy
     
 # biggy
 ## Intro
