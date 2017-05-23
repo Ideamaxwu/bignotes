@@ -11,6 +11,7 @@ notes on big data study
   - [Alluxio](#alluxio)
   - [Solr](#solr)
   - [Zeppelin](#zeppelin)
+  - [AsterixDB](#asterixdb)
   - [CosmoDB](#cosmodb)
   - [biggy](#biggy)
 
@@ -124,11 +125,24 @@ notes on big data study
 
 # Zeppelin
 ## Intro
-  - 
+  - Goal: A web-based notebook that enables interactive data analytics
 ## Keywords
-  - 
+  - Pluggable Visualization vis Helium
+  - Pluggable Interpreters
+  - Collaborate by sharing Notebook
 ## Conc
-  - 
+  - Pluggability on Interpreters
+
+# AsterixDB
+## Intro
+  - Goal: A scalable, open source Big Data Management System
+## Keywords
+  - Flexible Data Model
+  - Distributed Storage and Transaction
+  - Scalable, Data-parallel Execution Runtime
+  - Fast Ingestion
+## Conc
+  - One size fits a Bunch
   
 # CosmoDB
 ## Intro
