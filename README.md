@@ -11,6 +11,7 @@ notes on big data study
   - [Alluxio](#alluxio)
   - [Solr](#solr)
   - [Zeppelin](#zeppelin)
+  - [BigChainDB](#bigchaindb)
   - [AsterixDB](#asterixdb)
   - [CosmoDB](#cosmodb)
   - [biggy](#biggy)
@@ -133,6 +134,16 @@ notes on big data study
 ## Conc
   - Pluggability on Interpreters
 
+# BigChainDB
+## Intro
+  - Goal: The scalable blockchain database
+## Keywords
+  - Decentralization
+  - Immutability
+  - Native Assets
+## Conc
+  - New!
+  
 # AsterixDB
 ## Intro
   - Goal: A scalable, open source Big Data Management System
