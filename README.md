@@ -8,6 +8,7 @@ notes on big data study
   - [Mahout](#mahout)
   - [Spark](#spark)
   - [Storm](#storm)
+  - [TensorFlow](#tensorflow)
   - [Alluxio](#alluxio)
   - [Solr](#solr)
   - [Zeppelin](#zeppelin)
@@ -107,6 +108,15 @@ notes on big data study
   - Samza
   - For streaming (rather than batch)
 
+# TensorFlow
+## Intro
+  - Goal: Large-Scale Machine Learning on Heterogeneous Distributed Systems
+## Keywords
+  - Sessions
+  - Tensors
+## Conc
+  - A powerful tool
+  
 # Alluxio
 ## Intro
   - Goal: unifies disparate storage systems as memory speed
