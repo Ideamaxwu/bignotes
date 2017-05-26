@@ -8,6 +8,7 @@ notes on big data study
   - [Mahout](#mahout)
   - [Spark](#spark)
   - [Storm](#storm)
+  - [Ray](#ray)
   - [TensorFlow](#tensorflow)
   - [Alluxio](#alluxio)
   - [Solr](#solr)
@@ -108,6 +109,15 @@ notes on big data study
   - Samza
   - For streaming (rather than batch)
 
+# Ray
+## Intro
+  - Goal: A flexible, high-performance distributed execution framework
+## Keywords
+  - Scheduler
+  - Driver
+## Conc
+  - for Execution
+  
 # TensorFlow
 ## Intro
   - Goal: Large-Scale Machine Learning on Heterogeneous Distributed Systems
